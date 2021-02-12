@@ -6,5 +6,8 @@ https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/6.jpg           //  10张图让�
 https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/7.jpg           // 高性能高并发不服气是如何实现的
 https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/9.jpg           // 函数运行时在内存中是什么样子
 https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/8协程.jpg           // 协程是如何实现的
-https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/1thread.jpg 
-https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/1thread.jpg 
+https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/10.jpg           // 线程间到底共享了哪些进程资源
+https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/11.jpg           // 线程安全代码到底是怎样编写的
+https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/12.jpg           // 自己动手实现一个malloc内存分配器
+https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/13.jpg           // 神秘！申请内存时底层发生了什么？
+https://cdn.jsdelivr.net/gh/olaph123/img/qrcode/14.jpg           // 高性能Linux服务器内存池技术是如何实现的
